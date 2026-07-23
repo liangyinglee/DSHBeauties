@@ -11,6 +11,7 @@ One or two sentences on what this project asks and what it found. Replace this b
 |---|---|
 | LiangYing Lee(Wendy) | liangyinglee |
 | Weizhu Pan | WeizhuPan |
+| Lin Li | linli97 |
 | | |
 | | |
 | | |
